@@ -84,6 +84,6 @@ def copy_with_progress(src, dst_folder):
 
 
 if __name__ == "__main__":
-    src_path = "C:/Users/georg/myproject/connected-to-github/deepLearning/dataset" # 替換為源檔案的路徑
-    dst_path = "C:/Users/georg/Desktop/上課時數Excel//"  # 替換為目標檔案的路徑
+    src_path = "path/to/source" # 替換為源檔案的路徑
+    dst_path = "path/to/destination/folder"  # 替換為目標檔案的路徑
     copy_with_progress(src_path, dst_path)
