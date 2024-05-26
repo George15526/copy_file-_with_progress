@@ -20,6 +20,6 @@ or
 pipenv install -r requirements.txt
 ~~~
 
-Step 4: See this paragraph *if __name__ == "__main__":*, and change the src_path and dst_path
+Step 4: See this paragraph ```*if __name__ == "__main__":*```, and change the src_path and dst_path
 * src_path: put the absolute file or directory path where you want to copy the files
 * dst_path: put the absolute file path where you want to copy the files to
