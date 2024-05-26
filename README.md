@@ -1,4 +1,4 @@
-# copy_file-_with_progress
+# copy_file_with_progress
 
 This is an app for copy a file or directory to your specify file path.
 
